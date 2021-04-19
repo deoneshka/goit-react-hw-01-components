@@ -1,0 +1,26 @@
+.transaction_history {
+  font-family: Sans-Serif;
+  font-size: 14px;
+  background: rgb(192, 201, 201);
+  max-width: 70%;
+  width: 70%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.name {
+  font-weight: normal;
+  color: #039;
+  border-bottom: 2px solid #6678b1;
+  padding: 10px 8px;
+}
+
+.text {
+  color: #669;
+  padding: 9px 8px;
+}
+
+.type {
+  text-align: left;
+  padding-left: 10px;
+}

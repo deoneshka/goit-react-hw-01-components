@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-style: normal;
+}
+
+img {
+  display: block;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
